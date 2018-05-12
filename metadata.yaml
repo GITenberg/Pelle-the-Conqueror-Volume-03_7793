@@ -1,4 +1,5 @@
 _repo: Pelle-the-Conqueror-Volume-03_7793
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Miall, Bernard
@@ -6,6 +7,9 @@ contributor:
     birthdate: 1876
     gutenberg_agent_id: '1214'
     url: http://www.gutenberg.org/2009/agents/1214
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Andersen Nexø, Martin
@@ -20,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2530
     wikipedia: http://en.wikipedia.org/wiki/Martin_Andersen_Nexø
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7793#Pelle-the-Conqueror-Volume-03
 gutenberg_issued: '2005-03-01'
 gutenberg_type: Text
 identifiers:
